@@ -1,6 +1,6 @@
 function registerServiceWorker(){
-    navigator.serviceWorker
-    .register('/serviceWorker.js')
+    navigator.serviceworker
+    .register('/serviceworker.js')
     .then(function(reg){
         console.log("service worker registered", reg)
     })
