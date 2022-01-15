@@ -2,9 +2,9 @@
   "short_name": "RAH Phonebook",
   "name": "RAH Radiation Oncology Phonebook",
   
-  "start_url": "/?home=true",
+  "start_url": "index.html",
   "background_color": "#3367D6",
-  "display": "fullscreen",
+  "display": "standalone",
   "scope": "/",
   "theme_color": "#3367D6",
 }
